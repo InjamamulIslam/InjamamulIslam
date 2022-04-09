@@ -3,9 +3,11 @@
 -                       1.🧑🏽‍💻Coding
 -                       2.☁️cloud computing
 -                       3.🔐Cyber Security
-- 🌱 I’m currently learning BTech CSE Cloud Technology & Information Security
+- 🌱 I’m currently learning 
+-                        BTech CSE Cloud Technology & Information Security
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me *injamamul316@gmail.com
+- 📫 How to reach me 
+-                         injamamul316@gmail.com
 
 <!---
 InjamamulIslam/InjamamulIslam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
