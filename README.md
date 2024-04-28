@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @InjamamulIslam
 - 👀 I’m interested in 
--                       1.🧑🏽‍💻Coding
--                       2.☁️cloud computing
--                       3.🔐Cyber Security
+-                       1.🧑🏽‍💻Web Technology 
+-                       2.☁️cloud technology 
+-                       3.🔐 Information Security
 - 🌱 I’m currently learning 
 -                        BTech CSE Cloud Technology & Information Security
 - 💞️ I’m looking to collaborate on ...
